@@ -1,8 +1,4 @@
-# define the type of worker you want. e.g. Linux
-
 platform: linux
-
-# where do I get the above resource from? 
 
 image_resource: 
   type: docker-image
